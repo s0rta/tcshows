@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCShows - Twin Cities Concert Listings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>TC SHOWS</h1>
+        <nav>
+            <a href="#list">List</a>
+            <a href="#about">About</a>
+            <a href="#submit">Add a Show</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="filter">
+            <label><input type="checkbox" id="filter-upcoming" checked> Upcoming only</label>
+            <label><input type="checkbox" id="filter-free"> Free shows only</label>
+            <label><input type="checkbox" id="filter-all-ages"> All ages only</label>
+        </section>
+
+        <section id="shows">
+            <p>Loading shows...</p>
+        </section>
+
+        <section id="about" style="display: none;">
+            <h2>About TCShows</h2>
+            <p>A simple aggregator for concerts and shows happening in the Twin Cities.</p>
+            <p>This site is community-maintained. To add a show, submit via the form link above.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Twin Cities concert listings</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

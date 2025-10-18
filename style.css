@@ -1,0 +1,62 @@
+body {
+    font-family: monospace;
+    margin: 1em;
+    max-width: 70em;
+    background: #0a0a0a;
+    color: #e8e8e8;
+    line-height: 1.4;
+}
+
+a {
+    color: #e8e8e8;
+    text-decoration: underline;
+}
+
+a:hover {
+    background: #fff;
+    color: #000;
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.month-header {
+    font-weight: bold;
+    border-bottom: 1px solid #666;
+    margin: 1em 0 0.5em 0;
+}
+
+.show {
+    margin: 0.3em 0;
+}
+
+.show-date {
+    display: inline-block;
+    width: 6em;
+    font-weight: bold;
+}
+
+.show-details {
+    margin-left: 6em;
+    color: #999;
+}
+
+#filter {
+    margin: 1em 0;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    padding: 0.5em 0;
+}
+
+input[type="checkbox"] {
+    accent-color: #e8e8e8;
+    cursor: pointer;
+}
+
+#filter label {
+    margin-right: 1.5em;
+    cursor: pointer;
+}

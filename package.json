@@ -1,0 +1,20 @@
+{
+  "name": "tcshows",
+  "version": "1.0.0",
+  "description": "Minimalist concert aggregator for Twin Cities shows",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "concerts",
+    "twin-cities",
+    "minneapolis",
+    "saint-paul",
+    "shows",
+    "music"
+  ],
+  "author": "",
+  "license": "MIT"
+}

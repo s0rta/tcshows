@@ -1,0 +1,2608 @@
+{
+  "venues": {
+    "AS220 Main Stage": {
+      "name": "AS220 Main Stage",
+      "address": "24",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Askew": {
+      "name": "Askew",
+      "address": "561",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "AS220 Black Box": {
+      "name": "AS220 Black Box",
+      "address": "559",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Center for the Study of Slavery and Justice": {
+      "name": "Center for the Study of Slavery and Justice",
+      "address": "1219",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Columbus Theatre": {
+      "name": "Columbus Theatre",
+      "address": "1172",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Dexter Park": {
+      "name": "Dexter Park",
+      "address": "1175",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Diego's Middletown": {
+      "name": "Diego's Middletown",
+      "address": "1258",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Fete": {
+      "name": "Fete",
+      "address": "1160",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Dancing Cats": {
+      "name": "Dancing Cats",
+      "address": "",
+      "website": "",
+      "neighborhood": "",
+      "capacity": "Junkyard"
+    },
+    "List Art Center": {
+      "name": "List Art Center",
+      "address": "1221",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Machines With Magnets": {
+      "name": "Machines With Magnets",
+      "address": "557",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "News Cafe": {
+      "name": "News Cafe",
+      "address": "560",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Psychic Readings": {
+      "name": "Psychic Readings",
+      "address": "690",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RISD Museum": {
+      "name": "RISD Museum",
+      "address": "1223",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Scurvy Dog": {
+      "name": "Scurvy Dog",
+      "address": "1241",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Tea in Sahara": {
+      "name": "Tea in Sahara",
+      "address": "1162",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Knickerbocker": {
+      "name": "The Knickerbocker",
+      "address": "1182",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Met": {
+      "name": "The Met",
+      "address": "1184",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Parlour": {
+      "name": "The Parlour",
+      "address": "1251",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Wurks": {
+      "name": "The Wurks",
+      "address": "1163",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Trade Pop-Up": {
+      "name": "Trade Pop-Up",
+      "address": "1236",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Troop": {
+      "name": "Troop",
+      "address": "1174",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Wedding Cake House": {
+      "name": "Wedding Cake House",
+      "address": "1131",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Other": {
+      "name": "Other",
+      "address": "689",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Lit Club": {
+      "name": "The Lit Club",
+      "address": "1273",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Quonochontaug Grange": {
+      "name": "Quonochontaug Grange",
+      "address": "1347",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Cogut Institute for the Humanities": {
+      "name": "The Cogut Institute for the Humanities",
+      "address": "1349",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Waterfire Arts Center": {
+      "name": "Waterfire Arts Center",
+      "address": "1351",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Wilbury Theatre Group": {
+      "name": "Wilbury Theatre Group",
+      "address": "1357",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Donigan Park": {
+      "name": "Donigan Park",
+      "address": "1359",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rooftop at the ProvidenceG": {
+      "name": "Rooftop at the ProvidenceG",
+      "address": "1361",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Temple to Music": {
+      "name": "Temple to Music",
+      "address": "1369",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Independence Park": {
+      "name": "Independence Park",
+      "address": "1371",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Slater Park": {
+      "name": "Slater Park",
+      "address": "1373",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "AS220 Printshop": {
+      "name": "AS220 Printshop",
+      "address": "1378",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "City Hall": {
+      "name": "City Hall",
+      "address": "1398",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Carriage House Gallery": {
+      "name": "Carriage House Gallery",
+      "address": "1400",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Total Fabrication": {
+      "name": "Total Fabrication",
+      "address": "1417",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "River Island Art Park": {
+      "name": "River Island Art Park",
+      "address": "1461",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Waterplace": {
+      "name": "Waterplace",
+      "address": "1468",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Plant": {
+      "name": "The Plant",
+      "address": "1484",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Dark Lady": {
+      "name": "The Dark Lady",
+      "address": "1487",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Narragansett Theater": {
+      "name": "Narragansett Theater",
+      "address": "1494",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Dirt Palace": {
+      "name": "Dirt Palace",
+      "address": "1498",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Salon": {
+      "name": "The Salon",
+      "address": "1529",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Pump House": {
+      "name": "The Pump House",
+      "address": "1531",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Avenue Concept": {
+      "name": "The Avenue Concept",
+      "address": "1544",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "PrYSM": {
+      "name": "PrYSM",
+      "address": "1555",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "AS220 Industries": {
+      "name": "AS220 Industries",
+      "address": "1564",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Steel Yard": {
+      "name": "The Steel Yard",
+      "address": "1762",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Southside Cultural Center": {
+      "name": "Southside Cultural Center",
+      "address": "1852",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Riffraff": {
+      "name": "Riffraff",
+      "address": "1856",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Roger Williams Park": {
+      "name": "Roger Williams Park",
+      "address": "1877",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Granoff Center": {
+      "name": "Granoff Center",
+      "address": "1891",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Greenwich Odeum": {
+      "name": "Greenwich Odeum",
+      "address": "1893",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Newport Art Museum": {
+      "name": "Newport Art Museum",
+      "address": "1900",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Center for the Study of Race & Ethnicity": {
+      "name": "Center for the Study of Race & Ethnicity",
+      "address": "1974",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "First Unitarian Church": {
+      "name": "First Unitarian Church",
+      "address": "1994",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "ICERM": {
+      "name": "ICERM",
+      "address": "2005",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Bass Performing Arts Space": {
+      "name": "Bass Performing Arts Space",
+      "address": "2007",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Nightingale-Brown House": {
+      "name": "Nightingale-Brown House",
+      "address": "2009",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "McCormack Family Theater": {
+      "name": "McCormack Family Theater",
+      "address": "2011",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Alpert Medical School": {
+      "name": "Alpert Medical School",
+      "address": "2031",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Symposium Books": {
+      "name": "Symposium Books",
+      "address": "2033",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Brooklyn Coffee Tea & Guest House": {
+      "name": "Brooklyn Coffee Tea & Guest House",
+      "address": "2035",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Watson Institute": {
+      "name": "Watson Institute",
+      "address": "2062",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Trinity Brewhouse Outside": {
+      "name": "Trinity Brewhouse Outside",
+      "address": "2070",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Brown University": {
+      "name": "Brown University",
+      "address": "2077",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Vedanta Society": {
+      "name": "Vedanta Society",
+      "address": "2087",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RI State Archives": {
+      "name": "RI State Archives",
+      "address": "2107",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RISD Auditorium": {
+      "name": "RISD Auditorium",
+      "address": "2123",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Manning Chapel": {
+      "name": "Manning Chapel",
+      "address": "2187",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Acoustic Java": {
+      "name": "Acoustic Java",
+      "address": "2227",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Teatro ECAS": {
+      "name": "Teatro ECAS",
+      "address": "2236",
+      "website": "moved; may need to update address",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rhodes On The Pawtuxet": {
+      "name": "Rhodes On The Pawtuxet",
+      "address": "2246",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Grant Recital Hall": {
+      "name": "Grant Recital Hall",
+      "address": "2302",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "AS220 Project Space": {
+      "name": "AS220 Project Space",
+      "address": "2321",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Skye Gallery": {
+      "name": "Skye Gallery",
+      "address": "2367",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Twenty Stories": {
+      "name": "Twenty Stories",
+      "address": "2374",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Newport Blues Cafe": {
+      "name": "Newport Blues Cafe",
+      "address": "2379",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Public": {
+      "name": "Public",
+      "address": "2395",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Bell Street Chapel": {
+      "name": "Bell Street Chapel",
+      "address": "2521",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Courtland Club": {
+      "name": "Courtland Club",
+      "address": "2542",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Farmacy Herbs": {
+      "name": "Farmacy Herbs",
+      "address": "2619",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RIC": {
+      "name": "RIC",
+      "address": "2757",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Chazan Gallery": {
+      "name": "Chazan Gallery",
+      "address": "2762",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Providence Athenæum": {
+      "name": "Providence Athenæum",
+      "address": "2764",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Avon Cinema": {
+      "name": "Avon Cinema",
+      "address": "3385",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Crib": {
+      "name": "Crib",
+      "address": "3413",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Galactic Theatre": {
+      "name": "Galactic Theatre",
+      "address": "3415",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Parlour Newport": {
+      "name": "Parlour Newport",
+      "address": "3417",
+      "website": "Need to be removed",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Newport Art House": {
+      "name": "Newport Art House",
+      "address": "3419",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Nolan's Corner Pub": {
+      "name": "Nolan's Corner Pub",
+      "address": "3442",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Studio Z": {
+      "name": "Studio Z",
+      "address": "3463",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rhode Island Center for Photographic Arts": {
+      "name": "Rhode Island Center for Photographic Arts",
+      "address": "3465",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Nick-A-Nee's": {
+      "name": "Nick-A-Nee's",
+      "address": "3491",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Music Mansion": {
+      "name": "The Music Mansion",
+      "address": "3604",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "South Providence Library": {
+      "name": "South Providence Library",
+      "address": "3615",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RISD Fleet Library": {
+      "name": "RISD Fleet Library",
+      "address": "3754",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "New Urban Arts": {
+      "name": "New Urban Arts",
+      "address": "4255",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Mathewson Street Church": {
+      "name": "Mathewson Street Church",
+      "address": "4308",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Providence Rink": {
+      "name": "Providence Rink",
+      "address": "4350",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Online / The Internet": {
+      "name": "Online / The Internet",
+      "address": "4736",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Crowne Plaza": {
+      "name": "Crowne Plaza",
+      "address": "4999",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Narragansett Cafe": {
+      "name": "Narragansett Cafe",
+      "address": "5001",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Kennedy Plaza": {
+      "name": "Kennedy Plaza",
+      "address": "5046",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "RI State House": {
+      "name": "RI State House",
+      "address": "5048",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Burnside Park": {
+      "name": "Burnside Park",
+      "address": "5052",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Providence": {
+      "name": "Providence",
+      "address": "5063",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Newport": {
+      "name": "Newport",
+      "address": "5085",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rustic Drive-In": {
+      "name": "Rustic Drive-In",
+      "address": "5153",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Smithfield": {
+      "name": "Smithfield",
+      "address": "5156",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Jamestown": {
+      "name": "Jamestown",
+      "address": "5158",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Classical High School": {
+      "name": "Classical High School",
+      "address": "5219",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Swan Point Cemetery": {
+      "name": "Swan Point Cemetery",
+      "address": "5249",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Riverside Park": {
+      "name": "Riverside Park",
+      "address": "5267",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Central Falls": {
+      "name": "Central Falls",
+      "address": "5418",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Dean Hotel": {
+      "name": "Dean Hotel",
+      "address": "5853",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Pub on Park": {
+      "name": "Pub on Park",
+      "address": "5866",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rathskeller Downback": {
+      "name": "Rathskeller Downback",
+      "address": "5892",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "ISCO (Industrious Spirit Company)": {
+      "name": "ISCO (Industrious Spirit Company)",
+      "address": "5911",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Chan's Dining": {
+      "name": "Chan's Dining",
+      "address": "5912",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Platforms": {
+      "name": "Platforms",
+      "address": "5913",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "German American Cultural Society": {
+      "name": "German American Cultural Society",
+      "address": "5914",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Millrace Kitchen": {
+      "name": "The Millrace Kitchen",
+      "address": "5967",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Middletown": {
+      "name": "Middletown",
+      "address": "5974",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Hope's Alive": {
+      "name": "Hope's Alive",
+      "address": "6012",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Lighthouse Skatepark": {
+      "name": "Lighthouse Skatepark",
+      "address": "6016",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Equality Park Place": {
+      "name": "Equality Park Place",
+      "address": "6018",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "United Skates of America": {
+      "name": "United Skates of America",
+      "address": "6033",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Cranston": {
+      "name": "Cranston",
+      "address": "6034",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Courthouse Center for the Arts": {
+      "name": "Courthouse Center for the Arts",
+      "address": "6035",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Theater 82": {
+      "name": "Theater 82",
+      "address": "6036",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "West Park": {
+      "name": "West Park",
+      "address": "6048",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Little Compton Community Center": {
+      "name": "Little Compton Community Center",
+      "address": "6049",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Pawtucket": {
+      "name": "Pawtucket",
+      "address": "6092",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Mad House of Color": {
+      "name": "Mad House of Color",
+      "address": "6093",
+      "website": "",
+      "neighborhood": "",
+      "capacity": "Mad House of Color"
+    },
+    "Warren": {
+      "name": "Warren",
+      "address": "6094",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Woonsocket": {
+      "name": "Woonsocket",
+      "address": "6187",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "World War II Memorial Park": {
+      "name": "World War II Memorial Park",
+      "address": "6188",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "PPL": {
+      "name": "PPL",
+      "address": "6234",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "PVD Public Safety Complex": {
+      "name": "PVD Public Safety Complex",
+      "address": "6688",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Revive the Roots": {
+      "name": "Revive the Roots",
+      "address": "6973",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Proclamation Ale": {
+      "name": "Proclamation Ale",
+      "address": "7498",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Guild Beer Garden": {
+      "name": "The Guild Beer Garden",
+      "address": "7500",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The District": {
+      "name": "The District",
+      "address": "7593",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "India Point Park": {
+      "name": "India Point Park",
+      "address": "7774",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Providence Innovation District Park": {
+      "name": "Providence Innovation District Park",
+      "address": "7798",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Long Live Beergarden": {
+      "name": "Long Live Beergarden",
+      "address": "7799",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "River Island Park": {
+      "name": "River Island Park",
+      "address": "7842",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Richardson Park": {
+      "name": "Richardson Park",
+      "address": "7970",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "George Wiley Center": {
+      "name": "George Wiley Center",
+      "address": "8713",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Billy Taylor Park": {
+      "name": "Billy Taylor Park",
+      "address": "8725",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Irish Famine Memorial": {
+      "name": "Irish Famine Memorial",
+      "address": "8837",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "DWRI Letterpress": {
+      "name": "DWRI Letterpress",
+      "address": "8839",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The FANG Collective": {
+      "name": "The FANG Collective",
+      "address": "8926",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "TEN31 Productions": {
+      "name": "TEN31 Productions",
+      "address": "9068",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Bishop McVinney Auditorium": {
+      "name": "Bishop McVinney Auditorium",
+      "address": "9076",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "South County Museum": {
+      "name": "South County Museum",
+      "address": "9077",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Queer Art Collective": {
+      "name": "Queer Art Collective",
+      "address": "9085",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Providence College": {
+      "name": "Providence College",
+      "address": "9169",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Barnaby Castle": {
+      "name": "Barnaby Castle",
+      "address": "9237",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Mirabar": {
+      "name": "Mirabar",
+      "address": "9243",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Lit Lounge": {
+      "name": "Lit Lounge",
+      "address": "9321",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "North Burial Ground": {
+      "name": "North Burial Ground",
+      "address": "9353",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Village Theatre": {
+      "name": "Village Theatre",
+      "address": "9455",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "St. John's Cathedral": {
+      "name": "St. John's Cathedral",
+      "address": "9506",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Union Station Brewery": {
+      "name": "Union Station Brewery",
+      "address": "9516",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Grant's Block": {
+      "name": "Grant's Block",
+      "address": "9537",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Narragansett Brewery": {
+      "name": "Narragansett Brewery",
+      "address": "9542",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "DARE": {
+      "name": "DARE",
+      "address": "9549",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Strand": {
+      "name": "The Strand",
+      "address": "10007",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Vets": {
+      "name": "The Vets",
+      "address": "10082",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Farm Fresh RI": {
+      "name": "Farm Fresh RI",
+      "address": "10305",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "URI Feinstein Providence Campus": {
+      "name": "URI Feinstein Providence Campus",
+      "address": "10353",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Red Ink Community Library": {
+      "name": "Red Ink Community Library",
+      "address": "10786",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Moore Terrace": {
+      "name": "Moore Terrace",
+      "address": "10933",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Red Door": {
+      "name": "The Red Door",
+      "address": "11029",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "George Lounge": {
+      "name": "George Lounge",
+      "address": "11389",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "74 Winslow Ave": {
+      "name": "74 Winslow Ave",
+      "address": "11393",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Flatbread Co.": {
+      "name": "Flatbread Co.",
+      "address": "11526",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Casey Farm": {
+      "name": "Casey Farm",
+      "address": "11655",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "URI Botanical Gardens": {
+      "name": "URI Botanical Gardens",
+      "address": "11657",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "White Electric": {
+      "name": "White Electric",
+      "address": "11663",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Slater Mill": {
+      "name": "Slater Mill",
+      "address": "11665",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Small Format": {
+      "name": "Small Format",
+      "address": "11667",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Towers of Narragansett ": {
+      "name": "The Towers of Narragansett ",
+      "address": "11669",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Tomaquag Museum": {
+      "name": "Tomaquag Museum",
+      "address": "11918",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Warwick Center for the Arts (WCFA)": {
+      "name": "Warwick Center for the Arts (WCFA)",
+      "address": "11920",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Holiday Inn": {
+      "name": "The Holiday Inn",
+      "address": "13143",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Sol Koffler Gallery": {
+      "name": "Sol Koffler Gallery",
+      "address": "13555",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Garden": {
+      "name": "The Garden",
+      "address": "13612",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Black Lace": {
+      "name": "Black Lace",
+      "address": "13614",
+      "website": "",
+      "neighborhood": "Formerly 1911",
+      "capacity": ""
+    },
+    "Paper Nautilus Books": {
+      "name": "Paper Nautilus Books",
+      "address": "14329",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "World's Fair Gallery": {
+      "name": "World's Fair Gallery",
+      "address": "14360",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Central Contemporary Arts": {
+      "name": "Central Contemporary Arts",
+      "address": "14681",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Nicholson File": {
+      "name": "Nicholson File",
+      "address": "14723",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "MPACT stage": {
+      "name": "MPACT stage",
+      "address": "14781",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Black Sheep": {
+      "name": "Black Sheep",
+      "address": "15056",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "PVD Things": {
+      "name": "PVD Things",
+      "address": "20943",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "193 Coffeehouse (URI)": {
+      "name": "193 Coffeehouse (URI)",
+      "address": "33527",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Fish Co.": {
+      "name": "Fish Co.",
+      "address": "34089",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Opa": {
+      "name": "Opa",
+      "address": "35322",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Ladder 133": {
+      "name": "Ladder 133",
+      "address": "35324",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Glou": {
+      "name": "Glou",
+      "address": "36077",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Atrium Gallery at One Capital Hill": {
+      "name": "Atrium Gallery at One Capital Hill",
+      "address": "36140",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Mixed Magic Theatre": {
+      "name": "Mixed Magic Theatre",
+      "address": "36304",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Lost Bag": {
+      "name": "Lost Bag",
+      "address": "36328",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Linden Place": {
+      "name": "Linden Place",
+      "address": "36608",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Kimi's Bar": {
+      "name": "Kimi's Bar",
+      "address": "36629",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "AS220 Aborn Gallery": {
+      "name": "AS220 Aborn Gallery",
+      "address": "36686",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Rejects Beer Co.": {
+      "name": "Rejects Beer Co.",
+      "address": "36804",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Kin": {
+      "name": "Kin",
+      "address": "36913",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "195 District Park": {
+      "name": "195 District Park",
+      "address": "37173",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Deadbeats": {
+      "name": "Deadbeats",
+      "address": "37210",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Myrtle": {
+      "name": "Myrtle",
+      "address": "37247",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Alchemy": {
+      "name": "Alchemy",
+      "address": "38300",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Smith Hill Library": {
+      "name": "Smith Hill Library",
+      "address": "38372",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "In Your Ear Records": {
+      "name": "In Your Ear Records",
+      "address": "38408",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Upside Bar": {
+      "name": "The Upside Bar",
+      "address": "39808",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Analog Underground": {
+      "name": "Analog Underground",
+      "address": "41070",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Flipp Salon": {
+      "name": "Flipp Salon",
+      "address": "41076",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Buttonwoods Brewery": {
+      "name": "Buttonwoods Brewery",
+      "address": "41078",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Getties": {
+      "name": "Getties",
+      "address": "41080",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Last Resort": {
+      "name": "The Last Resort",
+      "address": "42038",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "East Manning Projects": {
+      "name": "East Manning Projects",
+      "address": "42080",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Northside Listening Room": {
+      "name": "Northside Listening Room",
+      "address": "42431",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Sin": {
+      "name": "Sin",
+      "address": "42621",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Daisy Cutter": {
+      "name": "Daisy Cutter",
+      "address": "42756",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Pyxis": {
+      "name": "Pyxis",
+      "address": "43682",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "The Crypt": {
+      "name": "The Crypt",
+      "address": "43684",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Barrington Public Library": {
+      "name": "Barrington Public Library",
+      "address": "43687",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "OPEN": {
+      "name": "OPEN",
+      "address": "43745",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Hope Artiste Village": {
+      "name": "Hope Artiste Village",
+      "address": "43827",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Westerly": {
+      "name": "Westerly",
+      "address": "43861",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Tiverton": {
+      "name": "Tiverton",
+      "address": "43853",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Portsmouth": {
+      "name": "Portsmouth",
+      "address": "43852",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "North Kingstown": {
+      "name": "North Kingstown",
+      "address": "43851",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Little Compton": {
+      "name": "Little Compton",
+      "address": "43850",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "East Providence": {
+      "name": "East Providence",
+      "address": "43849",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "East Greenwich": {
+      "name": "East Greenwich",
+      "address": "43847",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Block Island": {
+      "name": "Block Island",
+      "address": "43846",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    },
+    "Barrington": {
+      "name": "Barrington",
+      "address": "43844",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
+    }
+  },
+  "shows": [
+    {
+      "date": "2025-10-17",
+      "venue": {
+        "name": "Alchemy",
+        "address": "38300",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Joker's Republic, Girth Control, Knock Over City, So Many Dangers",
+      "time": "18:00:00",
+      "cost": "$10",
+      "age": "All Ages",
+      "linkUrl": "https://www.facebook.com/share/177caohaCM/",
+      "imageUrl": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-15/544156033_17920833267148963_7411702676955587727_n.webp?efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTg2NC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QHzjiKL9t62gXAlgCqq8O8ujeTI_42qc-FvnRDBO_Rfo69qYIokyKEPeLi-IwLVpdbmyb2Z91i2bVIAGRioHZJQ&_nc_ohc=uMUzHPJPvs4Q7kNvwFlfRuy&_nc_gid=ftTtrF0aAcJudRG1jYHGPA&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzcxOTQ4MTYxODg5MDQ0MDgwNA%3D%3D.3-ccb7-5&oh=00_Afb0w3oG1B1UBkAWD3OI-QkNvPA40PXB-hcc9JRgC7sILw&oe=68D6F573&_nc_sid=7a9f4b",
+      "details": "Skatober Fest - beers, brass, bad decisions. Come get skanky. be an active bystander and watch your friends’ drinks.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Providence",
+        "address": "5063",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "13:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.reddit.com/r/providence/comments/1nvj1ws/ri_is_participating_in_the_no_kings_nationwide/",
+      "imageUrl": "",
+      "details": "Statehouse Mall Side. They have dehumanized our immigrant neighbors. They have sent masked agents and soldiers to invade our cities, to terrorize, profile, abduct, and disappear hard-working people who have committed no crimes and are performing essential jobs. They have torn apart families. They have trampled the constitution and defied the courts. They have used our tax dollars, enriching their cronies to build concentration camps.<p>We are rising up in a nationwide, non-violent mass movement. We will not be divided. We will protect our neighbors. We will resist!</p>",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "The Parlour",
+        "address": "1251",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Dusty & The Brakes, Felicity's Hubris, Odacova",
+      "time": "20:00:00",
+      "cost": "$10",
+      "age": "21+",
+      "linkUrl": "https://theparlourri.com/events/dusty-and-the-brakes-odacova-felicitys-hubris/",
+      "imageUrl": "https://www.dropbox.com/scl/fi/6jzzioz17i95nxbu7fjfg/Visuals-Light-show-By-Video_Grub_Grub-1.png?rlkey=bbpf6vd5ozdhng6sqnmghs1md&st=a1dktb1a&dl=0",
+      "details": "Dusty's Live Album release party! Live Psychedelic Jams with stunning digital visuals projected onstage all night long! come get weird!",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Barrington",
+        "address": "43844",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "12:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/852801/",
+      "imageUrl": "",
+      "details": "Barrington Interfaith Partners invites all to gather in front of 461 County Road from 12:00 to 1:00 pm. Parking is available in the Park and Ride lot. The Barrington Congregational Church at this location will open its education building from 11:00 - 12:00 for sign-making. In America, we don’t put up with would-be kings.*",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Westerly",
+        "address": "43861",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "12:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/845507/",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "East Greenwich",
+        "address": "43847",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "13:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/857649/",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Block Island",
+        "address": "43846",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "12:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/845583/",
+      "imageUrl": "",
+      "details": "Esta's Park",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "East Providence",
+        "address": "43849",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "11:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/843780/",
+      "imageUrl": "",
+      "details": "Freedom Green Sidewalk",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Little Compton",
+        "address": "43850",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "12:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/847302/",
+      "imageUrl": "",
+      "details": "Little Compton Town Green",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "North Kingstown",
+        "address": "43851",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "10:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/840956/",
+      "imageUrl": "",
+      "details": "Sidewalk in front of the town hall",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Portsmouth",
+        "address": "43852",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "10:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/854243/",
+      "imageUrl": "",
+      "details": "Intersection by Clements and the Bank Newport",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-18",
+      "venue": {
+        "name": "Tiverton",
+        "address": "43853",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "NO KINGS",
+      "time": "13:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.mobilize.us/nokings/event/842145/",
+      "imageUrl": "",
+      "details": "United States Postal Service",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-19",
+      "venue": {
+        "name": "Scurvy Dog",
+        "address": "1241",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "DATE UPDATED! Parking Lot Mega Show: THERE / Mirror Men / Midnight Creeps / Slitty / Miracle Blood / Memory Lame / Muffin / Typhoid Mary / the Frenzy of Tongs / Quitters",
+      "time": "13:00:00",
+      "cost": "Free",
+      "age": "All Ages or bring your parents",
+      "linkUrl": "https://www.facebook.com/events/1572342843927901/",
+      "imageUrl": "https://www.scurvydogbar.com/images/events/101225-flyer-1600.jpg",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-19",
+      "venue": {
+        "name": "North Burial Ground",
+        "address": "9353",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "The Mausoleum Sessions",
+      "time": "16:00:00",
+      "cost": "",
+      "age": "All ages",
+      "linkUrl": "https://www.instagram.com/p/DNgmxniv2Hl/?igsh=MWVqaWxxNDRobHRtMA==",
+      "imageUrl": "https://www.instagram.com/p/DNgmxniv2Hl/?igsh=MWVqaWxxNDRobHRtMA==",
+      "details": "an evening of music + local vendors + art: music, history, & ambiance feat. Olivia Dolphin + Vudu Sister +\nSilver Rein (Ithaca) + Black Season Witch (Chicago) + Savoir Faire (Boston) + Allysen Callery + Space Cowboy Newt",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-21",
+      "venue": {
+        "name": "Other",
+        "address": "689",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Protect Your Tech; Helping Survivors Secure Their Online Presence",
+      "time": "15:30:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.eventbrite.com/o/sojourner-house-84965825393",
+      "imageUrl": "",
+      "details": "at United Way",
+      "multiples": "1"
+    },
+    {
+      "date": "2025-10-21",
+      "venue": {
+        "name": "Pyxis",
+        "address": "43682",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Kee Avil (MTL) / Luci Dead Limb / Ghost Puppy / Jayden Barber",
+      "time": "19:00:00",
+      "cost": "10$",
+      "age": "",
+      "linkUrl": "https://pyxispvd.neocities.org/upcoming",
+      "imageUrl": "https://drive.google.com/file/d/13kJ2UbaeQPYByr1eJZVsaWBllNCPJUHK/view?usp=drive_link",
+      "details": "NOTAFLOF",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-22",
+      "venue": {
+        "name": "RISD Museum",
+        "address": "1223",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Catherine Opie lecture",
+      "time": "18:30:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-23",
+      "venue": {
+        "name": "Myrtle",
+        "address": "37247",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Black As F**K presents: Monsters in Providence",
+      "time": "20:30:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.givemyrtle.com/upcoming-events/black-as-fk-presents-monsters-in-providence",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e812982a84d1844d8f0a929/1a2813aa-3fdc-41ba-adad-36fa9947f68b/1000008321.png?format=2500w",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-23",
+      "venue": {
+        "name": "Lost Bag",
+        "address": "36328",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Mopar Stars // Cursor // Dirt Devil // Nathan Thao Band",
+      "time": "20:00:00",
+      "cost": "$10",
+      "age": "",
+      "linkUrl": "https://www.instagram.com/p/DPxTtA4jLCp/",
+      "imageUrl": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/564069403_18029671073731742_4300187209655994726_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0Mjg1OTQyMTUzMDUwMTI4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0ODl4MTM3My5zZHIuQzMifQ%3D%3D&_nc_ohc=JFjDlfghyLsQ7kNvwFyOzk3&_nc_oc=AdmpG3i7jRqsRVOEbkOct9NscEaxQBtvgI8oSD1y4wXG0OBVKG2qfH3Iv6mednzNhhI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=7axBiB7_XY5ypR0anS2XVw&oh=00_AffIoxg1UqtdMkThrrIHU6zXdpnXeWxxyD_0oZ7T9WMcLg&oe=68F458A2",
+      "details": "@mopar.stars from philly \ncursor ( @videlectronixsuperstore )\n@_dirt_devil_  is ready to rock \nnathan thao band ( @lemonpolarseltzersuperfan )\nsounds at 8pm",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-23",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Ghosts In The Snow, Among Legends, Only On Weekends, They Were Robots",
+      "time": "19:00:00",
+      "cost": "$10",
+      "age": "All-Ages",
+      "linkUrl": "https://as220.org/calendar/ghosts-in-the-snow-among-legends-only-on-weekends-they-were-robots",
+      "imageUrl": "https://drive.google.com/file/d/1eZB_zPft2wkWRADizyHX5aMtmejbFhlP/view?usp=drive_link",
+      "details": "Punk, emo and rock with locals Ghosts In The Snow and They Were Robots, plus touring acts Among Legends (Canada) and Only On Weekends (NJ)",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-23",
+      "venue": {
+        "name": "The Parlour",
+        "address": "1251",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Ravi Shavi // Atlantic Thrills // Ziggy Gnardust // Jesse the Tree",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562500835_18530330557004956_1991084330822462718_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc0MjU2MTg3MTEyNzk2Njk5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTEyNi5zZHIuQzMifQ%3D%3D&_nc_ohc=PXedAJvGlXAQ7kNvwFXPu1u&_nc_oc=AdmVO8nCLs3Qn5qWPauaGBl37N2PX5ieP1Y7-9ibd1rLGFABmzyoETH0E8ebibMdZ1k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=xnA5tzq8F3DWofe-Rf251A&oh=00_Aff69nQUj-4NxLi8X0-lcW9HrPXyreLjWZ9vy2zNdAfmjg&oe=68F819AC",
+      "details": "Mark the date! Thursday Oct 23rd at @parlourprovidence our tour homecoming BASH with @ravishavi @ziggygnardust and @jessethetree!",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-24",
+      "venue": {
+        "name": "Black Lace",
+        "address": "13614",
+        "website": "",
+        "neighborhood": "Formerly 1911",
+        "capacity": ""
+      },
+      "title": "R.C Christian, Angel louis, oreo cookie therapy",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-24",
+      "venue": {
+        "name": "Wilbury Theatre Group",
+        "address": "1357",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Morality Play: A New Play with Music",
+      "time": "19:00",
+      "cost": "PWYC",
+      "age": "All Ages",
+      "linkUrl": "https://thewilburygroup.org/fringe-encore.html",
+      "imageUrl": "",
+      "details": "This new play with music from Dugway Theater pulls from the weird worlds of self-help influencers, motherhood, and PBS television to examine the slippery nature of truth.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-24",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Mellowpunk + So Totally + Loadcard + Porcelain",
+      "time": "20:00:00",
+      "cost": "$10",
+      "age": "All Ages",
+      "linkUrl": "https://as220.org/calendar/so-totally-loadcard-mellowpunk-porcelain",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-25",
+      "venue": {
+        "name": "The Holiday Inn",
+        "address": "13143",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Ravi Shavi, Spirit Ghost, Dakou Dakou, 92 Winona, and more",
+      "time": "19:00:00",
+      "cost": "$10",
+      "age": "",
+      "linkUrl": "https://www.instagram.com/p/DPM_AJOjZI-/?next=%2Fdusty_and_the_brakes%2F",
+      "imageUrl": "https://i.postimg.cc/VsTyx6rt/Holiday-Inn-10-25-Flyer.jpg",
+      "details": "Halloween comes to the Holiday Inn with a haunted evening of performances from Ravi Shavi, Dakou Dakou, Spirit Ghost, and 92 Winona, plus mood setting mind questing from the likes of Forager (famed forager and degeorger Joe DeGeorge), Brian 4 Ever, Thornback Jin, and puppetteer Ky Why, PLUS interactive bad luck art installations. 7 PM, $10-$20 suggested donation, though n.o.t.a.f.l.o.f. DM @holidayinnpvd on instagram for address. Don't be a ghoul.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-25",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "godfuck + gingerbee + corsica + morning dew",
+      "time": "19:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://as220.org/calendar/godfuck-gingerbee-corsica-morning-dew",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-25",
+      "venue": {
+        "name": "Lost Bag",
+        "address": "36328",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "FEAR OF FEST",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-10-31",
+      "venue": {
+        "name": "Myrtle",
+        "address": "37247",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Halloween Night with SWRM / Z.W.A. (Zombies With Attitudes) and DJ Schlaga Gala",
+      "time": "19:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.givemyrtle.com/upcoming-events/zgxzbeeuadq7miusyuxpa8qrwru8no",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-01",
+      "venue": {
+        "name": "Providence",
+        "address": "5063",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Screening and Q&A of Oscar Nominated Short Documentary DEATH BY NUMBERS",
+      "time": "14:30:00",
+      "cost": "FREE",
+      "age": "13+",
+      "linkUrl": "https://www.eventbrite.com/e/screening-of-academy-award-nominated-film-death-by-numbers-talkback-tickets-1808532351949?aff=oddtdtcreator",
+      "imageUrl": "https://drive.google.com/file/d/1D3AI0_Gp67SzQ3YpIru2ynUAAlf-fSln/view?usp=sharing",
+      "details": "Join us at the Providence Public Library for a special screening of Oscar nominated documentary short DEATH BY NUMBERS and Q&A with writer and main participant Sam Fuentes. \"Death by Numbers\" turns an intimate lens on school shooting survivor Sam Fuentes’s journey to reclaim her power, processing trauma through journaling. To prepare for a confrontation with her assailant in his harrowing sentencing trial, she examines complex questions of collective hatred and community justice.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-04",
+      "venue": {
+        "name": "Daisy Cutter",
+        "address": "42756",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Prior Panic, Como Qué Wao, Joe Degeorge Sax Machine, Izzy True",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "https://aloe.gay/priorpanic/shows/image-1.png",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-05",
+      "venue": {
+        "name": "Machines With Magnets",
+        "address": "557",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Earth + TBA",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.machineswithmagnets.com/performance#upcoming",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-07",
+      "venue": {
+        "name": "Machines With Magnets",
+        "address": "557",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "RISD Sound presents Charmaine Lee, Aliya Ultan + WGS Johnson",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.machineswithmagnets.com/performance#upcoming",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-07",
+      "venue": {
+        "name": "Manning Chapel",
+        "address": "2187",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Bach to the Future XII",
+      "time": "19:00:00",
+      "cost": "FREE",
+      "age": "All Ages",
+      "linkUrl": "https://communitymusicworks.org/event/bach-to-the-future-the-all-night-bach-marathon-4/",
+      "imageUrl": "",
+      "details": "All night marathon of J.S. Bach and Bach inspired performances. 7pm to 7am",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-08",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Plant Fight + Big Nobody + Germ House",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://as220.org/calendar/plant-fight-big-nobody-germ-house-plant-fight",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-08",
+      "venue": {
+        "name": "The Music Mansion",
+        "address": "3604",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Stone Soup Coffeehouse Presents Ellis Paul",
+      "time": "19:00:00",
+      "cost": "$30",
+      "age": "All Ages",
+      "linkUrl": "stonesoupcoffeehouse.org",
+      "imageUrl": "",
+      "details": "Ellis Paul doesn’t just write songs; he’s a guitar-carrying reporter who covers the human condition and details the hopes, loves, losses of those he observes, turning their stories into luminous pieces of music that get under your skin and into your bloodstream. Ellis is an old friend of Stone Soup and we're overjoyed he's coming to play The Music Mansion. Tickets are $30 and can be reserved online - check our website.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-10",
+      "venue": {
+        "name": "Pyxis",
+        "address": "43682",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "\"Everybody in the Place\" screening",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://pyxispvd.neocities.org/upcoming",
+      "imageUrl": "",
+      "details": "Club:Research is a monthly documentary series where we watch films that illuminate the past of electronic music and party culture from around the world.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-10",
+      "venue": {
+        "name": "Providence",
+        "address": "5063",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "RISD CRAFT",
+      "time": "10:00:00",
+      "cost": "Free",
+      "age": "All Ages",
+      "linkUrl": "https://risdcraft.com/",
+      "imageUrl": "",
+      "details": "RISD CRAFT FALL 2025 is Saturday, October 11, 2025, from 10 am – 4 pm. The sale is on Benefit Street (between Waterman & Hopkins Streets), Providence, RI, and it's Free to attend! There will be food trucks and a huge variety of vendors. Come say hi! ",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-14",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Poison Joys + A Monolithic Dome + Dull Care + Channel Vessel",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://as220.org/calendar/poison-joys-a-monolithic-dome-dull-care-channel-vessel",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-14",
+      "venue": {
+        "name": "Lost Bag",
+        "address": "36328",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Prior Panic, Anna Altman (NY,) Time Thief, Portal Rental",
+      "time": "19:30:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "https://aloe.gay/priorpanic/shows/image.png",
+      "details": "$10 - 15 NOTAFLOF",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-15",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Fthora + Swarm Catcher + Cazador",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://as220.org/calendar/fthora-swarm-catcher-cazador",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-15",
+      "venue": {
+        "name": "Daisy Cutter",
+        "address": "42756",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "DAISYMANIA",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-22",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Florry with John Andrews & The Yawns",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://as220.org/calendar/florry",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-22",
+      "venue": {
+        "name": "The Met",
+        "address": "1184",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "The Amazing Royal Crowns, Neutral Nation, The L-U-V's, One Fall, Diablogato, Brunt of It",
+      "time": "19:00:00",
+      "cost": "$25",
+      "age": "All Ages",
+      "linkUrl": "https://themetri.com/event/amazing-royal-crowns/the-met-ri/pawtucket-rhode-island/",
+      "imageUrl": "https://themetri.com/wp-content/uploads/2025/09/etix-1756915249_415941756915249.jfif",
+      "details": "The Return Of the AMAZING ROYAL CROWNS\nwith Neutral Nation • The L-U-V’s • One Fall • Diablogato • Brunt Of It",
+      "multiples": ""
+    },
+    {
+      "date": "2025-11-29",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "inhex / Courtney and Brad / Half (phl) / Sweepers (phl) / maplight.oggVorbis",
+      "time": "20:00:00",
+      "cost": "$10",
+      "age": "All Ages",
+      "linkUrl": "https://inhexinhex.com/as220_112925",
+      "imageUrl": "https://drive.google.com/file/d/1ByHKnnIoGVTxMrzDpuu6K_ulM_SIKGG_/view?usp=drivesdk",
+      "details": "punk, live electronic, experimental pop, live visuals by oggVorbis",
+      "multiples": ""
+    },
+    {
+      "date": "2025-12-05",
+      "venue": {
+        "name": "Pyxis",
+        "address": "43682",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "REDROOM INFERNO 3",
+      "time": "",
+      "cost": "$10",
+      "age": "25+",
+      "linkUrl": "https://pyxispvd.neocities.org/upcoming",
+      "imageUrl": "",
+      "details": "An electrifying fusion of Kink, Burlesque, and high-energy electronic + dance music, creating a night of seduction, rhythm, and raw sensuality.",
+      "multiples": ""
+    },
+    {
+      "date": "2025-12-07",
+      "venue": {
+        "name": "AS220 Black Box",
+        "address": "559",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Sontag Shogun, Mariassunta, TBA",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "",
+      "imageUrl": "",
+      "details": "more info to come",
+      "multiples": ""
+    },
+    {
+      "date": "2025-12-08",
+      "venue": {
+        "name": "Pyxis",
+        "address": "43682",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "\"Generation of Sound\" screening",
+      "time": "",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://pyxispvd.neocities.org/upcoming",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-12-12",
+      "venue": {
+        "name": "Machines With Magnets",
+        "address": "557",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Cold Flame, an audiovisual haunting with Unfeeling, Bittersweet + Kristina Warren",
+      "time": "20:00:00",
+      "cost": "",
+      "age": "",
+      "linkUrl": "https://www.machineswithmagnets.com/performance#upcoming",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    },
+    {
+      "date": "2025-12-13",
+      "venue": {
+        "name": "The Music Mansion",
+        "address": "3604",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Stone Soup Coffeehouse Presents Catie Curtis",
+      "time": "19:00:00",
+      "cost": "$30",
+      "age": "All Ages",
+      "linkUrl": "stonesoupcoffeehouse.org",
+      "imageUrl": "",
+      "details": "Friends took Catie Curtis to concerts at the Stone Soup Coffeehouse while she attended Brown University, introducing her to \"under the radar\" artists like Cheryl Wheeler and Greg Brown. Curtis gravitated toward the solo acoustic guitar, lyric-driven music, and the sometimes comedic exchange between performer and audience. We promise we’re kept this tradition and it will be a treat to have Catie play The Music Mansion. Tickets are $30 and can be reserved online - check our website.",
+      "multiples": ""
+    },
+    {
+      "date": "2026-03-26",
+      "venue": {
+        "name": "AS220 Main Stage",
+        "address": "24",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Black Eyes (Dischord), Downtown Boys (Sub Pop)",
+      "time": "20:00:00",
+      "cost": "$30",
+      "age": "All Ages",
+      "linkUrl": "openforever.org/concerts",
+      "imageUrl": "",
+      "details": "",
+      "multiples": ""
+    }
+  ],
+  "lastUpdated": "2025-10-18T19:10:03.973Z"
+}
