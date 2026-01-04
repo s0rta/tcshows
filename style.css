@@ -65,12 +65,10 @@ nav a:hover {
 
 .show-date {
     display: inline-block;
-    width: 7em;
     font-weight: normal;
 }
 
 .show-details {
-    margin-left: 7em;
     color: #999;
     font-size: 0.9em;
 }
@@ -80,17 +78,25 @@ nav a:hover {
     padding: 0.8em;
     background: #0f0f0f;
     border: 1px solid #222;
+    display: flex;
+    align-items: center;
+    gap: 2em;
 }
 
 input[type="checkbox"] {
     accent-color: #666;
     cursor: pointer;
+    vertical-align: middle;
 }
 
 #filter label {
-    margin-right: 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.4em;
     cursor: pointer;
     font-size: 0.9em;
+    line-height: 1px;
 }
 
 footer {

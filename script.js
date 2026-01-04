@@ -27,12 +27,10 @@ document.querySelectorAll('nav a').forEach(link => {
         if (href === '#about') {
             e.preventDefault();
             document.getElementById('shows').style.display = 'none';
-            document.getElementById('filter').style.display = 'none';
             document.getElementById('about').style.display = 'block';
         } else if (href === '#list') {
             e.preventDefault();
             document.getElementById('shows').style.display = 'block';
-            document.getElementById('filter').style.display = 'block';
             document.getElementById('about').style.display = 'none';
         }
     });
@@ -87,11 +85,11 @@ function renderShow(show) {
     const dateStr = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
 
     let html = `<div class="show">`;
-    html += `<span class="show-date">${dateStr}</span>`;
+    html += `<span class="show-date">${dateStr} |</span>`;
 
     // Title
     if (show.linkUrl) {
-        html += `<a href="${show.linkUrl}" target="_blank" class="show-title">${show.title}</a>`;
+        html += ` <a href="${show.linkUrl}" target="_blank" class="show-title">${show.title}</a>`;
     } else {
         html += `<span class="show-title">${show.title}</span>`;
     }
