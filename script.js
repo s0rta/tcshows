@@ -9,6 +9,13 @@ fetch('shows.json')
         allShows = data.shows;
         venues = data.venues;
         renderShows();
+
+        // Show last updated
+        if (data.lastUpdated) {
+            const date = new Date(data.lastUpdated);
+            document.getElementById('last-updated').textContent =
+                'Updated ' + date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+        }
     })
     .catch(error => {
         document.getElementById('shows').innerHTML = '<p>Error loading shows. Please try again later.</p>';
