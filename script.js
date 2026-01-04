@@ -102,7 +102,6 @@ function renderShow(show) {
     if (show.time) details.push(show.time);
     if (show.cost) details.push(show.cost);
     if (show.age) details.push(show.age);
-    console.log(show)
 
     if (details.length > 0 || show.details) {
         html += `<div class="show-details">`;
@@ -115,6 +114,42 @@ function renderShow(show) {
         html += `</div>`;
     }
 
+    // Bandcamp embeds (array of bands)
+    if (show.bandcamp && show.bandcamp.length > 0) {
+        html += `<div class="bandcamp-list">`;
+        show.bandcamp.forEach(bc => {
+            html += renderBandcamp(bc);
+        });
+        html += `</div>`;
+    }
+
+    html += `</div>`;
+    return html;
+}
+
+function renderBandcamp(bandcamp) {
+    if (!bandcamp.embedHtml) return '';
+
+    let html = `<div class="bandcamp-section">`;
+
+    // Artist + location
+    html += `<span class="bandcamp-artist">${bandcamp.artist || 'Unknown'}`;
+    if (bandcamp.location) {
+        html += ` <span class="bandcamp-location">(${bandcamp.location})</span>`;
+    }
+    html += `</span>`;
+
+    // Genre tags
+    if (bandcamp.genres && bandcamp.genres.length > 0) {
+        html += `<span class="bandcamp-genres">`;
+        bandcamp.genres.forEach(genre => {
+            html += `<span class="genre-tag">${genre}</span>`;
+        });
+        html += `</span>`;
+    }
+
+    // Player
+    html += `<div class="bandcamp-player">${bandcamp.embedHtml}</div>`;
     html += `</div>`;
     return html;
 }

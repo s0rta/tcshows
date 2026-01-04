@@ -1,0 +1,16 @@
+{
+  "https://plagueofstars.bandcamp.com/track/legacy-2": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3175011590/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Legacy",
+    "albumTitle": "Legacy",
+    "artist": "Plague of Stars",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a1830224311_5.jpg",
+    "genres": [
+      "doom metal",
+      "goth",
+      "gothic metal",
+      "metal"
+    ],
+    "location": "Minneapolis"
+  }
+}

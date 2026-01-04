@@ -99,6 +99,53 @@ input[type="checkbox"] {
     line-height: 1px;
 }
 
+.bandcamp-list {
+    margin-top: 0.4em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+}
+
+.bandcamp-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.bandcamp-artist {
+    font-size: 0.8em;
+    color: #aaa;
+}
+
+.bandcamp-location {
+    color: #666;
+}
+
+.bandcamp-genres {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.3em;
+}
+
+.genre-tag {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    padding: 0.1em 0.4em;
+    font-size: 0.7em;
+    color: #777;
+}
+
+.bandcamp-player {
+    width: 200px;
+}
+
+.bandcamp-player iframe {
+    border: none;
+    width: 100%;
+    height: 42px;
+}
+
 footer {
     margin-top: 4em;
     padding-top: 1em;
