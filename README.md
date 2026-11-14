@@ -4,12 +4,8 @@ A minimalist concert aggregator for Twin Cities shows, inspired by [rishows.com]
 
 ## Features
 
-- Plain text, minimal CSS aesthetic
 - Spreadsheet-backed (Google Sheets)
 - Filter by upcoming/free/all-ages shows
-- Venue information with foreign key relationship
-- Mobile-friendly responsive design
-- Static HTML - fast and simple
 
 ## Setup
 
@@ -66,13 +62,6 @@ npx serve .
 Visit `http://localhost:8000`
 
 ## Deployment
-
-### GitHub Pages
-
-1. Push to GitHub
-2. Enable GitHub Pages in repo settings
-3. Set up GitHub Actions to run `build.js` on schedule
-4. Deploy to `gh-pages` branch
 
 ### Netlify
 

@@ -43,6 +43,11 @@ document.querySelectorAll('nav a').forEach(link => {
     });
 });
 
+function properShowDate(dateStr) {
+    const dateArr = dateStr.split('-');
+    return date = new Date(dateArr[0], dateArr[1] - 1, dateArr[2]);
+} 
+
 function renderShows() {
     const upcomingOnly = document.getElementById('filter-upcoming').checked;
     const freeOnly = document.getElementById('filter-free').checked;
@@ -52,8 +57,11 @@ function renderShows() {
     today.setHours(0, 0, 0, 0);
 
     // Filter shows
+
     let filtered = allShows.filter(show => {
-        const showDate = new Date(show.date);
+        // new Date assumes western europe if you pass it a string like "2024-06-15", so we need to split and construct the date manually
+        const showDate = properShowDate(show.date);
+        show.Date = showDate; // Store the Date object for later use
 
         if (upcomingOnly && showDate < today) return false;
         if (freeOnly && !isFree(show.cost)) return false;
@@ -68,7 +76,7 @@ function renderShows() {
     // Render
     const container = document.getElementById('shows');
     if (filtered.length === 0) {
-        container.innerHTML = '<p>No shows match your filters.</p>';
+        container.innerHTML = '<p>Nothings matching your filters, jump in the spreadsheet, add what\'s missing!</p>';
         return;
     }
 
@@ -88,8 +96,7 @@ function renderShows() {
 }
 
 function renderShow(show) {
-    const date = new Date(show.date);
-    const dateStr = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+    const dateStr = show.Date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
 
     let html = `<div class="show">`;
     html += `<span class="show-date">${dateStr} |</span>`;

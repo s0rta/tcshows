@@ -12,5 +12,257 @@
       "metal"
     ],
     "location": "Minneapolis"
+  },
+  "https://impalerdm.bandcamp.com/album/infernal-desecration": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3643808332/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Infernal Desecration",
+    "albumTitle": "Infernal Desecration",
+    "artist": "Impaler",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a0404148826_5.jpg",
+    "genres": [
+      "brutal death metal",
+      "death metal",
+      "metal",
+      "blastbeats"
+    ],
+    "location": "Germany"
+  },
+  "https://12rods.bandcamp.com/album/2004-05-29-big-wu-family-reunion": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2555814974/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "2004-05-29 Big Wu Family Reunion",
+    "albumTitle": "2004-05-29 Big Wu Family Reunion",
+    "artist": "12RODS",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a4058576496_5.jpg",
+    "genres": [
+      "alternative",
+      "electronic",
+      "indie",
+      "indie rock"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://dillingerfour.bandcamp.com/album/this-shit-is-geniuser": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2209190128/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "This Shit Is Geniuser",
+    "albumTitle": "This Shit Is Geniuser",
+    "artist": "Dillinger Four",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a1984167339_5.jpg",
+    "genres": [
+      "punk",
+      "midwest punk rock",
+      "punk rock"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://virginwhores.bandcamp.com/album/fuck-you-we-rule-promo": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3652543909/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Fuck You We Rule Promo",
+    "albumTitle": "Fuck You We Rule Promo",
+    "artist": "Virgin Whores",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a2841066160_5.jpg",
+    "genres": [
+      "minneapolis, mn.",
+      "punk",
+      "punk rock and roll",
+      "punk rock"
+    ],
+    "location": "Minnesota"
+  },
+  "https://mysterymeatmpls.bandcamp.com/album/spoiled-rotten": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2777997547/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Spoiled Rotten",
+    "albumTitle": "Spoiled Rotten",
+    "artist": "Mystery Meat",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a0603056407_5.jpg",
+    "genres": [
+      "alt punk",
+      "diy",
+      "punk",
+      "dance punk"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://denimmatriarch.bandcamp.com/album/denim-matriarch": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2240850796/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Denim Matriarch",
+    "albumTitle": "Denim Matriarch",
+    "artist": "Denim Matriarch",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a3339423497_5.jpg",
+    "genres": [
+      "progressive rock",
+      "rock",
+      "space blues",
+      "stoner rock"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://tanninsmpls.bandcamp.com/album/ep-ii": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3773884121/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "EP II",
+    "albumTitle": "EP II",
+    "artist": "TANNINS",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a4218682637_5.jpg",
+    "genres": [
+      "rock"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://burningbluerain.bandcamp.com/album/blue-frame": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4161909057/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Blue Frame",
+    "albumTitle": "Blue Frame",
+    "artist": "Burning Blue Rain",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a0625181377_5.jpg",
+    "genres": [
+      "blues",
+      "soul",
+      "blues rock",
+      "psychedelic rock"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://visuallearner.bandcamp.com/album/greg-2": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3249420607/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Greg",
+    "albumTitle": "Greg",
+    "artist": "VISUAL LEARNER",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a2454645621_5.jpg",
+    "genres": [
+      "punk",
+      "indie rock",
+      "minneapolis",
+      "pop punk"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://morkemn.bandcamp.com/album/to-carry-on": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4240723685/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "To Carry On",
+    "albumTitle": "To Carry On",
+    "artist": "Morke",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a3336912886_5.jpg",
+    "genres": [
+      "metal",
+      "atmospheric black metal",
+      "black metal",
+      "dark metal"
+    ],
+    "location": "Minnesota"
+  },
+  "https://kfai.bandcamp.com/track/bubamara": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3577106333/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "The Brass Messengers - Bubamara",
+    "albumTitle": "The Brass Messengers - Bubamara",
+    "artist": "KFAI - Fresh Air Community Radio",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a4239716083_5.jpg",
+    "genres": [
+      "non-profitmusic",
+      "soundtrack",
+      "eclectic",
+      "radio"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://charlieparrmusic.bandcamp.com/album/little-sun-2": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2063242791/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Little Sun",
+    "albumTitle": "Little Sun",
+    "artist": "Charlie Parr",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a0725662172_5.jpg",
+    "genres": [
+      "folk"
+    ],
+    "location": "Duluth"
+  },
+  "https://varmints.bandcamp.com/track/poverty-diet-2": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=4222517430/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Poverty Diet",
+    "albumTitle": "Poverty Diet",
+    "artist": "Varmints",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a3208037370_5.jpg",
+    "genres": [
+      "punk",
+      "classic hardcore",
+      "d-beat",
+      "hardcore"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://thecactusblossoms.bandcamp.com/album/every-time-i-think-about-you": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1520704911/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Every Time I Think About You",
+    "albumTitle": "Every Time I Think About You",
+    "artist": "The Cactus Blossoms",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a1530664830_5.jpg",
+    "genres": [
+      "americana",
+      "country",
+      "alt-country",
+      "folk"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://kayodot.bandcamp.com/album/every-rock-every-half-truth-under-reason": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4086569750/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Every Rock, Every Half-Truth Under Reason",
+    "albumTitle": "Every Rock, Every Half-Truth Under Reason",
+    "artist": "Kayo Dot (and the music of Toby Driver)",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a3108560342_5.jpg",
+    "genres": [
+      "avant goth",
+      "experimental",
+      "experimental black metal",
+      "modern composition"
+    ],
+    "location": "New York"
+  },
+  "https://straya.bandcamp.com/album/live-in-their-golden-era": {
+    "genres": [],
+    "location": null,
+    "embedHtml": null,
+    "trackTitle": null,
+    "albumTitle": null
+  },
+  "https://fortunatesuns.bandcamp.com/album/last-train-out": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1362947046/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Last Train Out",
+    "albumTitle": "Last Train Out",
+    "artist": "Fortunate Suns",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a2060173401_5.jpg",
+    "genres": [
+      "rock",
+      "rock &amp; roll",
+      "blues",
+      "country"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://hive-us.bandcamp.com/album/hive-most-vicious-animal": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1023011360/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "HIVE - Most Vicious Animal",
+    "albumTitle": "HIVE - Most Vicious Animal",
+    "artist": "HIVE",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a2111935039_5.jpg",
+    "genres": [
+      "metal",
+      "boss hm-2",
+      "crust",
+      "d-beat"
+    ],
+    "location": "Minneapolis"
+  },
+  "https://disaster-kid.bandcamp.com/track/over-and-out": {
+    "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=336599230/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+    "trackTitle": "Over and Out",
+    "albumTitle": "Over and Out",
+    "artist": "Disaster Kid",
+    "thumbnailUrl": "https://f4.bcbits.com/img/a0024792790_5.jpg",
+    "genres": [
+      "rock",
+      "basement rock",
+      "indie",
+      "indie rock"
+    ],
+    "location": "Chicago"
   }
 }

@@ -160,6 +160,13 @@
       "website": "",
       "neighborhood": "",
       "capacity": ""
+    },
+    "331 Club": {
+      "name": "331 Club",
+      "address": "22",
+      "website": "",
+      "neighborhood": "",
+      "capacity": ""
     }
   },
   "shows": [
@@ -198,6 +205,157 @@
       ]
     },
     {
+      "date": "2026-01-04",
+      "venue": {
+        "name": "331 Club",
+        "address": "22",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Brass Messengers",
+      "time": "19:00",
+      "cost": "$0",
+      "age": "21+",
+      "linkUrl": "https://331club.com/",
+      "imageUrl": "",
+      "details": "",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3577106333/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "The Brass Messengers - Bubamara",
+          "albumTitle": "The Brass Messengers - Bubamara",
+          "artist": "KFAI - Fresh Air Community Radio",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a4239716083_5.jpg",
+          "genres": [
+            "non-profitmusic",
+            "soundtrack",
+            "eclectic",
+            "radio"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-04",
+      "venue": {
+        "name": "Turf Club",
+        "address": "11",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Charlie Parr January 2026 Residency",
+      "time": "19:00:00",
+      "cost": "$33",
+      "age": "21+",
+      "linkUrl": "https://first-avenue.com/event/2026-01-charlie-parr-wk1/",
+      "imageUrl": "https://first-avenue.com/wp-content/uploads/2025/09/CharlieParr-Jan2026-1080.jpg",
+      "details": "Doors Open 7PM Show Starts 7:30PM",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2063242791/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Little Sun",
+          "albumTitle": "Little Sun",
+          "artist": "Charlie Parr",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a0725662172_5.jpg",
+          "genres": [
+            "folk"
+          ],
+          "location": "Duluth"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-04",
+      "venue": {
+        "name": "Mortimers",
+        "address": "20",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Varmints, TODD., Modern Wild Life, TANNINS",
+      "time": "22:00:00",
+      "cost": "$5",
+      "age": "21+",
+      "linkUrl": "https://www.mortimerscalendar.com/event-details-registration/varmints-todd-modern-wildlife-tannins-2026-01-04-22-00",
+      "imageUrl": "https://static.wixstatic.com/media/cd839d_e95f67c9fd6f445aaaab74c313ab97de~mv2.jpg/v1/fill/w_896,h_1152,al_c,q_85,enc_auto/cd839d_e95f67c9fd6f445aaaab74c313ab97de~mv2.jpg",
+      "details": "10PM Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=4222517430/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Poverty Diet",
+          "albumTitle": "Poverty Diet",
+          "artist": "Varmints",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a3208037370_5.jpg",
+          "genres": [
+            "punk",
+            "classic hardcore",
+            "d-beat",
+            "hardcore"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "venue": {
+        "name": "Pillar Forum",
+        "address": "21",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Iodine, Twin River, Lawnchair Dads",
+      "time": "18:00:00",
+      "cost": "$12",
+      "age": "",
+      "linkUrl": "https://www.pilllar.com/pages/events",
+      "imageUrl": "https://pagestudio.s3.theshoppad.net/pillar-skatebaords/fb6ea8bf76668af6d1ca4d9ef4895c4a.jpg",
+      "details": "Advance $10 Day of Show $12",
+      "multiples": ""
+    },
+    {
+      "date": "2026-01-05",
+      "venue": {
+        "name": "Turf Club",
+        "address": "11",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "The Cactus Blossoms, Pap Wagner",
+      "time": "18:30:00",
+      "cost": "$33.20",
+      "age": "21+",
+      "linkUrl": "https://first-avenue.com/event/2026-01-the-cactus-blossoms-wk1/",
+      "imageUrl": "https://first-avenue.com/wp-content/uploads/2025/11/CactusBlossoms-Jan2026-1080x1268v1.jpg",
+      "details": "",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1520704911/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Every Time I Think About You",
+          "albumTitle": "Every Time I Think About You",
+          "artist": "The Cactus Blossoms",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a1530664830_5.jpg",
+          "genres": [
+            "americana",
+            "country",
+            "alt-country",
+            "folk"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
       "date": "2026-01-07",
       "venue": {
         "name": "7th St Entry",
@@ -211,9 +369,25 @@
       "cost": "$15",
       "age": "18+",
       "linkUrl": "https://first-avenue.com/event/2026-01-12-rods-solo/",
-      "imageUrl": "",
+      "imageUrl": "https://first-avenue.com/wp-content/uploads/2025/11/12Rods-010726-1080.jpg",
       "details": "7pm Doors / 8pm Showtime, KFAI Presents",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2555814974/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "2004-05-29 Big Wu Family Reunion",
+          "albumTitle": "2004-05-29 Big Wu Family Reunion",
+          "artist": "12RODS",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a4058576496_5.jpg",
+          "genres": [
+            "alternative",
+            "electronic",
+            "indie",
+            "indie rock"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-01-09",
@@ -229,9 +403,38 @@
       "cost": "$20 Adv",
       "age": "21+",
       "linkUrl": "https://www.mortimerscalendar.com/event-details-registration/dillinger-4-virgin-whores-drunk-drivers-visual-learner",
-      "imageUrl": "",
+      "imageUrl": "https://static.wixstatic.com/media/cd839d_8757e5197b9b49e9a6b96d2369fcf5a7~mv2.jpg/v1/fill/w_1392,h_1688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/cd839d_8757e5197b9b49e9a6b96d2369fcf5a7~mv2.jpg",
       "details": "8pm Doors, It's Paddy's 33rd 21st Birthday!!",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2209190128/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "This Shit Is Geniuser",
+          "albumTitle": "This Shit Is Geniuser",
+          "artist": "Dillinger Four",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a1984167339_5.jpg",
+          "genres": [
+            "punk",
+            "midwest punk rock",
+            "punk rock"
+          ],
+          "location": "Minneapolis"
+        },
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3652543909/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Fuck You We Rule Promo",
+          "albumTitle": "Fuck You We Rule Promo",
+          "artist": "Virgin Whores",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a2841066160_5.jpg",
+          "genres": [
+            "minneapolis, mn.",
+            "punk",
+            "punk rock and roll",
+            "punk rock"
+          ],
+          "location": "Minnesota"
+        }
+      ]
     },
     {
       "date": "2026-01-09",
@@ -247,9 +450,25 @@
       "cost": "$15 Adv / $17 DOS",
       "age": "All Ages",
       "linkUrl": "https://www.pilllar.com/collections/tickets/products/music-mystery-meat-1-9-2026",
-      "imageUrl": "",
+      "imageUrl": "https://pagestudio.s3.theshoppad.net/pillar-skatebaords/30e72553a03f631fe1042234e501d0f9.jpg",
       "details": "6:30 Doors / 7pm Showtime",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2777997547/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Spoiled Rotten",
+          "albumTitle": "Spoiled Rotten",
+          "artist": "Mystery Meat",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a0603056407_5.jpg",
+          "genres": [
+            "alt punk",
+            "diy",
+            "punk",
+            "dance punk"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-01-09",
@@ -262,12 +481,28 @@
       },
       "title": "Denim Matriarch, KILLUSONLINE, & TABAH",
       "time": "19:30:00",
-      "cost": "$15",
+      "cost": "$12 Adv / $15 DOS",
       "age": "21+",
       "linkUrl": "https://dice.fm/event/mx8qrv-denim-matriarch-killusonline-tabah-9th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9PSk1NM7NIMjcyM7IvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAO26lY0gAAAA%3D",
-      "imageUrl": "",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-12-01/8ccbe033-edf2-4ef5-848a-3f8e0029d7a1.jpg?rect=0%2C270%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
       "details": "7:30pm Doors",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2240850796/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Denim Matriarch",
+          "albumTitle": "Denim Matriarch",
+          "artist": "Denim Matriarch",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a3339423497_5.jpg",
+          "genres": [
+            "progressive rock",
+            "rock",
+            "space blues",
+            "stoner rock"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-01-10",
@@ -278,14 +513,27 @@
         "neighborhood": "",
         "capacity": ""
       },
-      "title": "TANNINS, With a Gun for a Face, Hardcore Crayons, Self-Evident",
+      "title": "Self-Evident, Hardcore Crayons, With a Gun for a Face, TANNINS",
       "time": "19:00:00",
       "cost": "$20",
       "age": "21+",
       "linkUrl": "https://dice.fm/event/9262l6-benefit-for-carlys-fight-against-als-bmans-40th-bday-10th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q%2BxsDRJNjNNS0oyS7QvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAFucdMkgAAAA%3D",
-      "imageUrl": "",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-11-16/bb9c223c-287f-4948-991f-c032256bb06c.jpg?rect=0%2C540%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
       "details": "Benefit for Carly's Fight Against ALS + Bman’s 40th BDAY",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3773884121/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "EP II",
+          "albumTitle": "EP II",
+          "artist": "TANNINS",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a4218682637_5.jpg",
+          "genres": [
+            "rock"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-01-10",
@@ -301,9 +549,25 @@
       "cost": "$15 Adv / $17 DOS",
       "age": "All Ages",
       "linkUrl": "https://www.pilllar.com/collections/tickets/products/music-burning-blue-rain-1-10-2026",
-      "imageUrl": "",
+      "imageUrl": "https://pagestudio.s3.theshoppad.net/pillar-skatebaords/d1880a123d14ab85bf5aeac105a7689d.jpg",
       "details": "6:30 Doors / 7pm Showtime",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4161909057/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Blue Frame",
+          "albumTitle": "Blue Frame",
+          "artist": "Burning Blue Rain",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a0625181377_5.jpg",
+          "genres": [
+            "blues",
+            "soul",
+            "blues rock",
+            "psychedelic rock"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-01-11",
@@ -337,7 +601,7 @@
       "cost": "$10 Adv / $12 DOS",
       "age": "All Ages",
       "linkUrl": "http://pilllar.com/collections/tickets/products/music-spin-kick-1-12-2026",
-      "imageUrl": "",
+      "imageUrl": "https://pagestudio.s3.theshoppad.net/pillar-skatebaords/bdc7d324f30fe8e383896ec7a7a8327b.jpg",
       "details": "6pm Doors / 6:30pm Showtime",
       "multiples": ""
     },
@@ -355,9 +619,186 @@
       "cost": "$13",
       "age": "18+",
       "linkUrl": "https://dice.fm/event/k6n5pl-alphabet-boys-visual-learner-tommy-mommy-log-balls-12th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q81S0oySUtOSjM1TLUvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUADJmI4EgAAAA%3D",
-      "imageUrl": "",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-12-16/0a22abc9-4091-4394-9ff6-e5b46aa77f52.jpg?rect=0%2C0%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
       "details": "6:30pm Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3249420607/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Greg",
+          "albumTitle": "Greg",
+          "artist": "VISUAL LEARNER",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a2454645621_5.jpg",
+          "genres": [
+            "punk",
+            "indie rock",
+            "minneapolis",
+            "pop punk"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "venue": {
+        "name": "Zhora Darling",
+        "address": "8",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "green, / TOMBOYY / Plumstar",
+      "time": "19:30:00",
+      "cost": "$10 Adv / $12 DOS",
+      "age": "21+",
+      "linkUrl": "https://dice.fm/event/g563x6-green-tomboyy-plumstar-15th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S9NTTIxSjVPNTe1NLEvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAWriPekgAAAA%3D",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-11-10/19d97a47-2dce-4041-9b76-39256125a4a9.jpg?rect=0%2C270%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+      "details": "7:30pm Doors",
       "multiples": ""
+    },
+    {
+      "date": "2026-01-16",
+      "venue": {
+        "name": "Zhora Darling",
+        "address": "8",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Kayo Dot & Straya",
+      "time": "19:30:00",
+      "cost": "$15 Adv / $18 DOS",
+      "age": "21+",
+      "linkUrl": "https://dice.fm/event/mxpldv-kayo-dot-straya-16th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U80TjQ1NTVKNTA3SrUvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUA%2BCyP5UgAAAA%3D",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-10-03/6925416d-c95c-4369-9a90-1af796702f02.jpg?rect=0%2C270%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+      "details": "7:30pm Doors, Kayo Dot is making its first full US tour since 2017",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4086569750/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Every Rock, Every Half-Truth Under Reason",
+          "albumTitle": "Every Rock, Every Half-Truth Under Reason",
+          "artist": "Kayo Dot (and the music of Toby Driver)",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a3108560342_5.jpg",
+          "genres": [
+            "avant goth",
+            "experimental",
+            "experimental black metal",
+            "modern composition"
+          ],
+          "location": "New York"
+        },
+        {
+          "genres": [],
+          "location": null,
+          "embedHtml": null,
+          "trackTitle": null,
+          "albumTitle": null
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "venue": {
+        "name": "Zhora Darling",
+        "address": "8",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Plague of Stars, UXIA, & Phase Meridian",
+      "time": "18:30:00",
+      "cost": "$15",
+      "age": "21+",
+      "linkUrl": "https://dice.fm/event/3oex8v-plague-of-stars-uxia-phase-meridian-17th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9JsjA1Mk5JNTVITbYvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAOVwwWUgAAAA%3D",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-07-10/9eae757a-7ad2-438c-b254-4278db6a2754.jpg?rect=0%2C0%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+      "details": "6:30pm Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3175011590/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Legacy",
+          "albumTitle": "Legacy",
+          "artist": "Plague of Stars",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a1830224311_5.jpg",
+          "genres": [
+            "doom metal",
+            "goth",
+            "gothic metal",
+            "metal"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "venue": {
+        "name": "Zhora Darling",
+        "address": "8",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Fortunate Suns, Sammie Jean Cohen, & Catfish Troy",
+      "time": "17:30:00",
+      "cost": "$10 Adv / $15 DOS",
+      "age": "21+",
+      "linkUrl": "https://dice.fm/event/5388a8-fortunate-suns-sammie-jean-cohen-catfish-troy-18th-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S%2BzMLQ0MbVMSjQwMrUvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUA3Q6R5UgAAAA%3D",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-12-08/d910ce4b-4a05-4a45-8030-2ee56d9cbecc.jpg?rect=0%2C270%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+      "details": "5:30pm Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1362947046/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Last Train Out",
+          "albumTitle": "Last Train Out",
+          "artist": "Fortunate Suns",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a2060173401_5.jpg",
+          "genres": [
+            "rock",
+            "rock &amp; roll",
+            "blues",
+            "country"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "venue": {
+        "name": "Zhora Darling",
+        "address": "8",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Hive, Vacant, Wanderer, & Body",
+      "time": "18:30:00",
+      "cost": "$10 Adv / $12 DOS",
+      "age": "18+",
+      "linkUrl": "https://dice.fm/event/xe29wm-hive-vacant-wanderer-body-21st-jan-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1fdPsjQ2Skwyt7RMM7UvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAOy1ywEgAAAA%3D",
+      "imageUrl": "https://dice-media.imgix.net/attachments/2025-12-30/c1a9b5ba-05fa-454f-b136-54f6b7e5f4ba.jpg?rect=0%2C270%2C2160%2C2160&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+      "details": "6:30pm Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1023011360/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "HIVE - Most Vicious Animal",
+          "albumTitle": "HIVE - Most Vicious Animal",
+          "artist": "HIVE",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a2111935039_5.jpg",
+          "genres": [
+            "metal",
+            "boss hm-2",
+            "crust",
+            "d-beat"
+          ],
+          "location": "Minneapolis"
+        }
+      ]
     },
     {
       "date": "2026-02-13",
@@ -373,9 +814,25 @@
       "cost": "$15",
       "age": "21+",
       "linkUrl": "https://firstavenue.me/4pNWSqc",
-      "imageUrl": "",
+      "imageUrl": "https://first-avenue.com/wp-content/uploads/2025/12/Impaler-021326-1080.jpg",
       "details": "7pm Doors / 8pm Showtime",
-      "multiples": ""
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3643808332/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Infernal Desecration",
+          "albumTitle": "Infernal Desecration",
+          "artist": "Impaler",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a0404148826_5.jpg",
+          "genres": [
+            "brutal death metal",
+            "death metal",
+            "metal",
+            "blastbeats"
+          ],
+          "location": "Germany"
+        }
+      ]
     },
     {
       "date": "2026-02-28",
@@ -391,10 +848,60 @@
       "cost": "$13",
       "age": "21+",
       "linkUrl": "https://dice.fm/event/bb3veo-morke-kostnatn-wanderer-28th-feb-zhora-darling-minneapolis-tickets?pid=1d4479ef&_branch_match_id=1536129677703514988&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Xc0TDRIMTUxS7FISrIvyEyxNUwxMTG3TE1TqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAFYvrPkgAAAA%3D",
-      "imageUrl": "",
-      "details": "7:30pm Doors, Morke's first hometown show in five years!",
-      "multiples": ""
+      "imageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/611127484_1548383139684773_2510820616349532863_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1Nuo2JfRVREQ7kNvwGC4sqJ&_nc_oc=AdnWo_zbNehtK057dgY8Ml1t7hg8yHPm1ceb70_CKfNLO7sS57dK1a7F4pwqro2UrAi77buEYHX_lOVR2AUp5u4y&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=hJnpv354_IQ_G2xhRW672w&oh=00_AfoHtCezS_LqwDXzP99COKwl-7FlWnAlei7imfMgp1HqEg&oe=6960BA2A",
+      "details": "7:30pm Doors / 8pm Showtime, Morke's first hometown show in five years!",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4240723685/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "To Carry On",
+          "albumTitle": "To Carry On",
+          "artist": "Morke",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a3336912886_5.jpg",
+          "genres": [
+            "metal",
+            "atmospheric black metal",
+            "black metal",
+            "dark metal"
+          ],
+          "location": "Minnesota"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "venue": {
+        "name": "Pillar Forum",
+        "address": "21",
+        "website": "",
+        "neighborhood": "",
+        "capacity": ""
+      },
+      "title": "Disaster Kid with bird dog, and Anna Devine",
+      "time": "19:00:00",
+      "cost": "$15 Adv / $17 Day of",
+      "age": "All Ages",
+      "linkUrl": "https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026",
+      "imageUrl": "https://pagestudio.s3.theshoppad.net/pillar-skatebaords/2278064b12c4d98634b9478b2cb47832.jpg",
+      "details": "6:30pm Doors",
+      "multiples": "",
+      "bandcamp": [
+        {
+          "embedHtml": "<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=336599230/size=small/bgcol=0a0a0a/linkcol=888888/transparent=true\" seamless></iframe>",
+          "trackTitle": "Over and Out",
+          "albumTitle": "Over and Out",
+          "artist": "Disaster Kid",
+          "thumbnailUrl": "https://f4.bcbits.com/img/a0024792790_5.jpg",
+          "genres": [
+            "rock",
+            "basement rock",
+            "indie",
+            "indie rock"
+          ],
+          "location": "Chicago"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-04T21:02:42.611Z"
+  "lastUpdated": "2026-11-14T19:25:11.836Z"
 }
