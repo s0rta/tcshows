@@ -43,10 +43,11 @@ document.querySelectorAll('nav a').forEach(link => {
     });
 });
 
-function properShowDate(dateStr) {
+function properShowDate(dateStr, timeStr) {
     const dateArr = dateStr.split('-');
-    return date = new Date(dateArr[0], dateArr[1] - 1, dateArr[2]);
-} 
+    const [year, month, day] = dateArr;
+    return new Date(year, month - 1, day, ...timeStr ? timeStr.split(':').map(Number) : [0, 0]);
+}
 
 function renderShows() {
     const upcomingOnly = document.getElementById('filter-upcoming').checked;
@@ -60,7 +61,8 @@ function renderShows() {
 
     let filtered = allShows.filter(show => {
         // new Date assumes western europe if you pass it a string like "2024-06-15", so we need to split and construct the date manually
-        const showDate = properShowDate(show.date);
+        console.log('Filtering show:', show.title, 'Date:', show.date, 'Time:', show.time);
+        const showDate = properShowDate(show.date, show.time);
         show.Date = showDate; // Store the Date object for later use
 
         if (upcomingOnly && showDate < today) return false;
@@ -113,7 +115,8 @@ function renderShow(show) {
 
     // Details line
     let details = [];
-    if (show.time) details.push(show.time);
+    console.log(show.Date)
+    if (show.time) details.push(show.Date.toLocaleTimeString('en-US', {hour: 'numeric', 'hour12': true, minute: 'numeric'}));
     if (show.cost) details.push(show.cost);
     if (show.age) details.push(show.age);
 
@@ -172,7 +175,7 @@ function groupByMonth(shows) {
     const groups = {};
 
     shows.forEach(show => {
-        const date = new Date(show.date);
+        const date = properShowDate(show.date, show.time);
         const key = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
 
         if (!groups[key]) {
